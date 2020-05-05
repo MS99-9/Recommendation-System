@@ -1,4 +1,5 @@
 # Recommendation-System
+This is a Recommending System using haskell language
 Almost all the applications we use today rely extensively on recommender systems to build user profiles and accordingly recommend items to buy/watch/read that matches their users’ interests.
 In this project, a recommender system uses the users’ purchases history to:
 • Recommend an item to the user based on their previous purchases if the current cart is empty
